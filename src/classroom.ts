@@ -3,9 +3,8 @@ interface User {
     age:number
 }
 
-function isLegal(user:User){
- 
-    if(user.age >18){
+function isLegal(user:User):boolean{
+    if(user.age > 18){
         return true
      } else{
         return false
