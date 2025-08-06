@@ -23,7 +23,7 @@
     "exactOptionalPropertyTypes": true,
     // Style Options
     // "noImplicitReturns": true,
-    // "noImplicitOverride": true,
+    // "noImplicitOverr4wide": true,
     // "noUnusedLocals": true,
     // "noUnusedParameters": true,
     // "noFallthroughCasesInSwitch": true,
