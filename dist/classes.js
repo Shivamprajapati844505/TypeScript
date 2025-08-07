@@ -10,6 +10,7 @@ class BottenMaker {
 }
 let b1 = new BottenMaker("Milton", "steel", 500, "white");
 console.log(b1);
+// lengthy way of code
 class BottenBuilder {
     constructor(name) {
         this.name = name;
