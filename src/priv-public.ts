@@ -24,7 +24,7 @@ class Employee extends Person {
 const p1 = new Person("Shivam", 25, "shivam@example.com");
 
 console.log(p1.name);      //  public - accessible
- console.log(p1.age);    // private - Error
-console.log(p1.email);  //  protected - Error
+//  console.log(p1.age);    // private - Error
+// console.log(p1.email);  //  protected - Error
 
 p1.showDetails(); //  works fine

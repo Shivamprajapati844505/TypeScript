@@ -39,5 +39,4 @@ class BrassBottleMaker extends BottleManufecture {
     }
 }
 let bottel = new BrassBottleMaker("protected Milton");
-bottel.name = "change the name";
 console.log(bottel);
