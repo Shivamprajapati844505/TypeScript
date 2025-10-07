@@ -1,0 +1,1 @@
+    bool isP = checkPrime(n);
